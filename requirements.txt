@@ -1,7 +1,7 @@
 -i https://pypi.tuna.tsinghua.edu.cn/simple
 fastapi
 uvicorn
-onnxruntime==1.10.0
+onnxruntime
 opencv-python==4.9.0.80
 pillow==8.4.0
 tqdm
