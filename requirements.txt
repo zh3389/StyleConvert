@@ -3,6 +3,6 @@ fastapi
 uvicorn
 onnxruntime
 opencv-python==4.9.0.80
-pillow==8.4.0
+pillow>=8.4.0
 tqdm
 python-multipart
